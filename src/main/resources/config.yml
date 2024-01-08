@@ -1,0 +1,24 @@
+messages:
+  test: '&aTest'
+  rewardMessage: '&aYou have answered all questions correctly and you have been rewarded!'
+  winnerMessage: '&c%player% &ahas answered all questions correctly and he/she has been rewarded!'
+Questions:
+  1: '&aWhat is 2+2?'
+  2: '&aWhat is 4+4?'
+  3: '&aWhat is 8+8?'
+  4: '&aWhat is 16+16?'
+  5: '&aWhat is 32+32?'
+  6: '&aWhat is the capital of Turkiye?'
+  7: '&aWrite the word in the correct form: wnad'
+
+Answers:
+  1: '4'
+  2: '8'
+  3: '16'
+  4: '32'
+  5: '64'
+  6: 'Ankara'
+  7: 'wand'
+messageInterval: 60
+numberofQuestions: 6
+rewardCommand: "give %player% diamond 1"

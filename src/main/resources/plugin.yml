@@ -1,0 +1,4 @@
+name: ChatContests
+version: '${version}'
+main: com.github.sokakmelodileri.chatcontests.ChatContests
+api-version: '1.20'
